@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gosu (0.15.2)
+
+PLATFORMS
+  universal-darwin-20
+
+DEPENDENCIES
+  gosu (~> 0.15)
+
+RUBY VERSION
+   ruby 2.7.2p137
+
+BUNDLED WITH
+   2.2.3
